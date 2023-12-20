@@ -1,9 +1,10 @@
 # HackerNewsAPI
 
 Get details for selected news and the associated comments;
-(Call the api: {{hostname}}/GetNewsDetails?newsId=1)
+{{hostname}}/GetNewsDetails?newsId=1
 
 Getting a list of news;
+{{hostname}}/GetNews?filter=story
 
 Support for news filtering:
    - newest to oldest(All);
